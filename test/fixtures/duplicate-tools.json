@@ -1,0 +1,1 @@
+{"tools":[{"name":"duplicate","description":"First duplicate fixture.","inputSchema":{"type":"object"}},{"name":"duplicate","description":"Second duplicate fixture.","inputSchema":{"type":"object"}}]}
