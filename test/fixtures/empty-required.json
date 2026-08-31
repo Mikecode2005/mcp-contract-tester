@@ -1,0 +1,1 @@
+{"tools":[{"name":"optional_input","description":"All input fields are optional.","inputSchema":{"type":"object","properties":{"limit":{"type":"integer"}},"required":[]}}]}
