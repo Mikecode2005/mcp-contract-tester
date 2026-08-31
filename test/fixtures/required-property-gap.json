@@ -1,0 +1,1 @@
+{"tools":[{"name":"required_gap","description":"Required property is not defined.","inputSchema":{"type":"object","properties":{},"required":["query"]}}]}
