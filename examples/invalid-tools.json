@@ -1,0 +1,1 @@
+{"tools":[{"name":"search documents","description":"Search.","inputSchema":{"type":"array","required":["query"]}},{"name":"search documents","description":"","inputSchema":{"type":"object","properties":{}}}]}

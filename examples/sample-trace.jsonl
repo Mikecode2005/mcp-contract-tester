@@ -1,0 +1,2 @@
+{"tool":"search_documents","arguments":{"query":"MCP","limit":5},"result":{"items":[]},"recordedAt":"2026-01-15T10:00:00.000Z"}
+{"tool":"get_document","arguments":{"document_id":"doc_123"},"result":{"id":"doc_123","title":"Protocol notes"},"recordedAt":"2026-01-15T10:00:01.000Z"}
