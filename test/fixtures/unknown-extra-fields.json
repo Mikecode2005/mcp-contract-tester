@@ -1,0 +1,1 @@
+{"tools":[{"name":"extra_fields","description":"Unknown metadata should not break validation.","inputSchema":{"type":"object","properties":{},"x-internal-note":"fixture"},"annotations":{"readOnlyHint":true}}]}
