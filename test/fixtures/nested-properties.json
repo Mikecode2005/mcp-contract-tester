@@ -1,0 +1,1 @@
+{"tools":[{"name":"nested_input","description":"Accept a nested object input.","inputSchema":{"type":"object","properties":{"filter":{"type":"object","properties":{"term":{"type":"string"}}}}}}]}
